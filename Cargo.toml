@@ -13,7 +13,7 @@ license = "Unlicense OR MIT"
 exclude = ["/Makefile", "/ctags.rust", "/session.vim"]
 edition = "2021"
 
-[workspace]
+#[workspace]
 members = ["quickcheck_macros"]
 
 [features]
